@@ -104,11 +104,4 @@ season-ticket-retention/
 └── figures/
 ```
 
-## How to Run
-```bash
-pip install -r requirements.txt
-python src/generate_data.py        # recreates data/raw/
-```
-Then run the notebooks in order.
-
 **Tools:** Python, pandas, NumPy, scikit-learn, matplotlib
