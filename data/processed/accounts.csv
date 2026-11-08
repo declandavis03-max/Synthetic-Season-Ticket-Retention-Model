@@ -1,0 +1,918 @@
+Account_ID,Age,Location,Account_Type,Member_Since
+ACCT100000,31.0,"New York, NY",Individual,2024.0
+ACCT100001,29.0,"Staten Island, NY",Individual,2020.0
+ACCT100002,,"HOBOKEN, NJ",Individual,2023.0
+ACCT100003,41.0,"Princeton, NJ",Individual,2024.0
+ACCT100004,42.0,11574,Individual,2024.0
+ACCT100005,36.0,princeton nj,Individual,2017.0
+ACCT100006,56.0,,Individual,2019.0
+ACCT100007,42.0,"Queens, NY",Corporate,2020.0
+ACCT100008,39.0,"Bronx, NY",Individual,2011.0
+ACCT100009,31.0,"New York, NY",Individual,2023.0
+ACCT100010,69.0,allentown pa,Individual,2021.0
+ACCT100011,59.0,"Jersey City, NJ",Individual,2023.0
+ACCT100012,66.0,"QUEENS, NY",Individual,2018.0
+ACCT100013,36.0,"Pittsburgh, PA",Individual,2023.0
+ACCT100014,37.0,"Bronx, NY",Individual,2024.0
+ACCT100015,33.0,"Massapequa, NY",Individual,2020.0
+ACCT100016,44.0,"New York, NY",Corporate,2019.0
+ACCT100017,37.0,"NEW YORK, NY",Individual,2023.0
+ACCT100018,,"Queens, NY",Individual,2022.0
+ACCT100019,36.0,"Queens, NY",Individual,2020.0
+ACCT100020,29.0,"Paramus, NJ",Individual,2024.0
+ACCT100021,26.0,,Individual,2024.0
+ACCT100022,39.0,"Queens, NY",Individual,2024.0
+ACCT100023,54.0,"Bronx, NY",Individual,2015.0
+ACCT100024,26.0,"Bronx, NY 10443",Individual,2022.0
+ACCT100025,34.0,"New York, NY",Individual,2023.0
+ACCT100026,45.0,"New York, NY",Individual,2022.0
+ACCT100027,42.0,"Brooklyn, NY",Corporate,2010.0
+ACCT100028,50.0,"Bronx, NY",Individual,2024.0
+ACCT100029,52.0,paramus nj,Individual,2024.0
+ACCT100030,75.0,"Brooklyn, New York",Corporate,2023.0
+ACCT100031,21.0,11767,Individual,2024.0
+ACCT100032,48.0,"Queens, NY",Individual,2023.0
+ACCT100033,60.0,"Brooklyn, NY",Corporate,2024.0
+ACCT100034,65.0,"Yonkers, NY",Individual,2022.0
+ACCT100035,69.0,"New York, New York",Individual,2022.0
+ACCT100036,56.0,newark nj,Individual,2023.0
+ACCT100037,58.0,"Yonkers, NY",Individual,2024.0
+ACCT100038,37.0,"Brooklyn, New York",Individual,2018.0
+ACCT100039,67.0,"Brooklyn, NY",Individual,2008.0
+ACCT100040,58.0,"Hoboken, NJ",Corporate,2024.0
+ACCT100041,51.0,"Staten Island, NY",Individual,2017.0
+ACCT100042,52.0,"New York, NY",Individual,2023.0
+ACCT100043,26.0,,Individual,2015.0
+ACCT100044,25.0,"BROOKLYN, NY",Individual,2015.0
+ACCT100045,58.0,brooklyn ny,Individual,2022.0
+ACCT100046,66.0,"Brooklyn, NY",Individual,2012.0
+ACCT100047,,07672,Individual,2017.0
+ACCT100048,37.0,"Queens, NY",Individual,2021.0
+ACCT100049,53.0,"Bronx, NY",Individual,2023.0
+ACCT100050,29.0,"STATEN ISLAND, NY",Individual,2022.0
+ACCT100051,42.0,"Staten Island, NY",Individual,2024.0
+ACCT100052,,,Individual,2023.0
+ACCT100053,44.0,"Brooklyn, NY",Individual,2024.0
+ACCT100054,33.0,,Individual,2019.0
+ACCT100055,71.0,staten island ny,Corporate,2022.0
+ACCT100056,52.0,"Staten Island, NY",Corporate,2024.0
+ACCT100057,45.0,,Individual,2023.0
+ACCT100058,51.0,"Staten Island, NY",Individual,2024.0
+ACCT100059,64.0,"BRONX, NY",Individual,2014.0
+ACCT100060,36.0,"Montclair, NJ",Individual,2019.0
+ACCT100061,49.0,"Bronx, NY",Individual,2023.0
+ACCT100062,48.0,"Queens, NY",Individual,2023.0
+ACCT100063,,"Montclair, NJ",Individual,2020.0
+ACCT100064,47.0,"New York, NY",Individual,2023.0
+ACCT100065,45.0,"Brooklyn, NY",Individual,2024.0
+ACCT100066,43.0,"Bronx, NY",Individual,2022.0
+ACCT100067,53.0,staten island ny,Individual,2024.0
+ACCT100068,29.0,"Brooklyn, NY",Individual,2019.0
+ACCT100069,61.0,rochester ny,Individual,2024.0
+ACCT100070,69.0,"Queens, NY",Individual,2022.0
+ACCT100071,58.0,"Garden City, NY 11598",Individual,2014.0
+ACCT100072,25.0,"Hoboken, NJ",Individual,2023.0
+ACCT100073,54.0,"Staten Island, New York",Individual,2019.0
+ACCT100074,44.0,"Poughkeepsie, New York",Individual,2016.0
+ACCT100075,48.0,10311,Corporate,2016.0
+ACCT100076,61.0,,Individual,2023.0
+ACCT100077,63.0,"NEW YORK, NY",Individual,2017.0
+ACCT100078,,"Pittsburgh, PA",Individual,2024.0
+ACCT100079,52.0,"New York, NY",Individual,2019.0
+ACCT100080,69.0,"Bronx, NY",Individual,2022.0
+ACCT100081,37.0,"Bronx, New York",Individual,2017.0
+ACCT100082,61.0,"Bronx, NY",Individual,2013.0
+ACCT100083,29.0,"EDISON, NJ",Individual,2017.0
+ACCT100084,35.0,"Garden City, NY",Individual,2011.0
+ACCT100085,48.0,"PRINCETON, NJ",Corporate,2018.0
+ACCT100086,33.0,"Hempstead, NY",Individual,2020.0
+ACCT100087,31.0,,Individual,2020.0
+ACCT100088,43.0,10435,Individual,2021.0
+ACCT100089,56.0,"Queens, NY",Individual,2024.0
+ACCT100090,40.0,"Bronx, NY",Individual,2013.0
+ACCT100091,54.0,"Allentown, PA 18153",Individual,2023.0
+ACCT100092,43.0,"New York, NY",Individual,2024.0
+ACCT100093,37.0,"Hempstead, NY",Individual,2016.0
+ACCT100094,24.0,"Brooklyn, NY",Corporate,2012.0
+ACCT100095,36.0,"PHILADELPHIA, PA",Individual,2022.0
+ACCT100096,,"New York, NY",Individual,2023.0
+ACCT100097,62.0,"Queens, New York",Individual,2024.0
+ACCT100098,66.0,yonkers ny,Individual,2011.0
+ACCT100099,35.0,"BROOKLYN, NY",Individual,2013.0
+ACCT100100,27.0,"Morristown, NJ",Individual,2019.0
+ACCT100101,37.0,"Bronx, NY",Individual,2023.0
+ACCT100102,46.0,"Morristown, NJ",Individual,2005.0
+ACCT100103,30.0,"Syracuse, NY",Individual,2023.0
+ACCT100104,49.0,"Queens, NY",Individual,2020.0
+ACCT100105,30.0,"Staten Island, NY",Individual,2010.0
+ACCT100106,55.0,"Princeton, NJ",Individual,2024.0
+ACCT100107,50.0,"SCRANTON, PA",Corporate,2022.0
+ACCT100108,21.0,,Individual,2022.0
+ACCT100109,59.0,"Scarsdale, New York",Individual,2024.0
+ACCT100110,44.0,massapequa ny,Individual,2005.0
+ACCT100111,63.0,"Staten Island, NY",Individual,2023.0
+ACCT100112,43.0,11393,Individual,2023.0
+ACCT100113,,"Brooklyn, NY",Individual,2004.0
+ACCT100114,55.0,"Brooklyn, NY",Individual,2014.0
+ACCT100115,57.0,"Yonkers, NY",Individual,2020.0
+ACCT100116,44.0,"Poughkeepsie, NY",Individual,2022.0
+ACCT100117,,"Staten Island, NY",Individual,2020.0
+ACCT100118,37.0,"Queens, NY",Individual,2023.0
+ACCT100119,55.0,"EDISON, NJ",Individual,2016.0
+ACCT100120,35.0,"Queens, NY 11382",Corporate,2017.0
+ACCT100121,21.0,staten island ny,Individual,2024.0
+ACCT100122,57.0,"Brooklyn, NY",Individual,2020.0
+ACCT100123,40.0,"Garden City, NY",Individual,2019.0
+ACCT100124,60.0,11234,Individual,2023.0
+ACCT100125,,,Individual,2021.0
+ACCT100126,38.0,10350,Individual,2010.0
+ACCT100127,32.0,"MORRISTOWN, NJ",Individual,2011.0
+ACCT100128,47.0,"Brooklyn, NY",Corporate,2021.0
+ACCT100129,54.0,"Burlington, Vermont",Individual,2023.0
+ACCT100130,,"Bronx, NY",Individual,2021.0
+ACCT100131,22.0,"New York, NY",Individual,2024.0
+ACCT100132,46.0,"Brooklyn, NY",Individual,2023.0
+ACCT100133,49.0,"Staten Island, NY",Individual,2021.0
+ACCT100134,46.0,"Jersey City, New Jersey",Individual,2004.0
+ACCT100135,,"Jersey City, NJ",Individual,2021.0
+ACCT100136,23.0,"Huntington, NY",Individual,2022.0
+ACCT100137,30.0,"Staten Island, NY",Individual,2006.0
+ACCT100138,45.0,"Huntington, NY",Individual,2024.0
+ACCT100139,40.0,rochester ny,Individual,2024.0
+ACCT100140,69.0,11507,Corporate,2019.0
+ACCT100141,55.0,Manhattan,Corporate,2021.0
+ACCT100142,,"Morristown, New Jersey",Individual,2022.0
+ACCT100143,59.0,"Queens, NY",Individual,2015.0
+ACCT100144,47.0,"Pittsburgh, PA",Individual,2020.0
+ACCT100145,33.0,philadelphia pa,Individual,2023.0
+ACCT100146,30.0,"NEWARK, NJ",Individual,2020.0
+ACCT100147,34.0,"Scarsdale, NY",Individual,2018.0
+ACCT100148,21.0,"New York, NY",Individual,2021.0
+ACCT100149,42.0,10010,Corporate,2022.0
+ACCT100150,,"NEW YORK, NY",Corporate,2015.0
+ACCT100151,53.0,11379,Individual,2012.0
+ACCT100152,,"BROOKLYN, NY",Individual,2012.0
+ACCT100153,48.0,,Corporate,2021.0
+ACCT100154,39.0,"Brooklyn, NY 11298",Individual,2023.0
+ACCT100155,34.0,"Edison, NJ",Individual,2020.0
+ACCT100156,63.0,"Pittsburgh, PA",Individual,2020.0
+ACCT100157,24.0,"Queens, NY",Corporate,2021.0
+ACCT100158,34.0,"Montclair, NJ",Individual,2020.0
+ACCT100159,62.0,"Pittsburgh, PA",Individual,2018.0
+ACCT100160,56.0,,Corporate,2009.0
+ACCT100161,47.0,"New York, New York",Individual,2018.0
+ACCT100162,50.0,"New Rochelle, NY",Individual,2018.0
+ACCT100163,,"Bronx, NY",Individual,2024.0
+ACCT100164,49.0,"Morristown, NJ 07953",Individual,2014.0
+ACCT100165,59.0,"Staten Island, NY",Individual,2024.0
+ACCT100166,33.0,"Bronx, NY",Individual,2024.0
+ACCT100167,46.0,"Staten Island, NY",Individual,2024.0
+ACCT100168,49.0,"New York, NY",Individual,2012.0
+ACCT100169,42.0,"Bronx, NY",Individual,2022.0
+ACCT100170,34.0,"Brooklyn, NY",Individual,2020.0
+ACCT100171,31.0,"New York, New York",Individual,2017.0
+ACCT100172,46.0,"QUEENS, NY",Individual,2016.0
+ACCT100173,29.0,"Brooklyn, NY",Individual,2024.0
+ACCT100174,28.0,"Brooklyn, New York",Individual,2024.0
+ACCT100175,47.0,"New York, NY",Individual,2004.0
+ACCT100176,54.0,"New York, NY",Individual,2023.0
+ACCT100177,48.0,"Manhattan, NY",Individual,2017.0
+ACCT100178,41.0,new york ny,Individual,2024.0
+ACCT100179,52.0,"Hempstead, NY",Individual,2023.0
+ACCT100180,61.0,"Hackensack, NJ",Individual,2024.0
+ACCT100181,21.0,"New York, NY",Individual,2018.0
+ACCT100182,53.0,"Rochester, NY",Corporate,2021.0
+ACCT100183,46.0,"PITTSBURGH, PA",Individual,2023.0
+ACCT100184,41.0,"Bronx, New York",Individual,2020.0
+ACCT100185,28.0,"Queens, NY",Individual,2018.0
+ACCT100186,44.0,"New York, NY 10018",Individual,2022.0
+ACCT100187,74.0,"Brooklyn, NY 11288",Individual,2024.0
+ACCT100188,50.0,10367,Individual,2021.0
+ACCT100189,47.0,,Individual,2020.0
+ACCT100190,49.0,"Albany, NY",Individual,2024.0
+ACCT100191,58.0,07026,Individual,2012.0
+ACCT100192,,"BRATTLEBORO, VT",Individual,2018.0
+ACCT100193,26.0,"Queens, NY",Corporate,2018.0
+ACCT100194,43.0,"Morristown, NJ 07938",Individual,2019.0
+ACCT100195,66.0,"Yonkers, NY",Individual,2023.0
+ACCT100196,29.0,"Bronx, NY",Individual,2012.0
+ACCT100197,33.0,,Individual,2024.0
+ACCT100198,46.0,"Staten Island, NY",Individual,2022.0
+ACCT100199,39.0,"Queens, NY",Individual,2018.0
+ACCT100200,56.0,07029,Individual,2022.0
+ACCT100201,59.0,syracuse ny,Corporate,2012.0
+ACCT100202,41.0,"Brooklyn, NY",Corporate,2017.0
+ACCT100203,57.0,"Brooklyn, New York",Individual,2017.0
+ACCT100204,,"BRONX, NY",Individual,2022.0
+ACCT100205,34.0,"Staten Island, NY",Individual,2019.0
+ACCT100206,46.0,"New Rochelle, NY",Corporate,2023.0
+ACCT100207,52.0,"Staten Island, NY",Individual,2018.0
+ACCT100208,58.0,"Brooklyn, NY",Individual,2011.0
+ACCT100209,62.0,"Newark, NJ",Individual,2023.0
+ACCT100210,57.0,"ROCHESTER, NY",Individual,2019.0
+ACCT100211,62.0,"Massapequa, NY",Individual,2021.0
+ACCT100212,59.0,"Staten Island, NY",Individual,2018.0
+ACCT100213,52.0,rochester ny,Individual,2021.0
+ACCT100214,40.0,12608,Individual,2024.0
+ACCT100215,54.0,05341,Individual,2024.0
+ACCT100216,21.0,"Brooklyn, NY 11237",Individual,2019.0
+ACCT100217,25.0,"Brooklyn, NY",Individual,2014.0
+ACCT100218,,new york ny,Individual,2020.0
+ACCT100219,40.0,"Brooklyn, NY",Individual,2012.0
+ACCT100220,,"NEW ROCHELLE, NY",Individual,2015.0
+ACCT100221,,"Fort Lee, NJ",Individual,2023.0
+ACCT100222,,11352,Individual,2012.0
+ACCT100223,55.0,"Queens, NY",Individual,2021.0
+ACCT100224,49.0,"STATEN ISLAND, NY",Individual,2023.0
+ACCT100225,34.0,"Brooklyn, NY",Individual,2018.0
+ACCT100226,47.0,10405,Corporate,2010.0
+ACCT100227,47.0,"Bronx, New York",Corporate,2022.0
+ACCT100228,49.0,,Individual,2016.0
+ACCT100229,27.0,"Staten Island, NY",Corporate,2015.0
+ACCT100230,45.0,"Queens, NY",Individual,2010.0
+ACCT100231,43.0,"Brattleboro, VT",Individual,2024.0
+ACCT100232,21.0,"Brooklyn, NY",Individual,2022.0
+ACCT100233,44.0,"Staten Island, NY",Individual,2021.0
+ACCT100234,44.0,10096,Individual,2010.0
+ACCT100235,38.0,"Philadelphia, PA",Individual,2024.0
+ACCT100236,62.0,,Individual,2019.0
+ACCT100237,72.0,10465,Individual,2017.0
+ACCT100238,47.0,"Brattleboro, VT",Individual,2021.0
+ACCT100239,60.0,"White Plains, NY",Individual,2022.0
+ACCT100240,66.0,"Brooklyn, NY",Individual,2020.0
+ACCT100241,36.0,"Philadelphia, PA",Individual,2017.0
+ACCT100242,55.0,hoboken nj,Individual,2023.0
+ACCT100243,25.0,"MONTCLAIR, NJ",Corporate,2018.0
+ACCT100244,63.0,"New York, NY",Individual,2011.0
+ACCT100245,41.0,"Massapequa, NY",Individual,2024.0
+ACCT100246,38.0,"Staten Island, NY",Corporate,2019.0
+ACCT100247,53.0,"Queens, NY",Corporate,2020.0
+ACCT100248,43.0,Manhattan,Individual,2019.0
+ACCT100249,30.0,,Individual,2023.0
+ACCT100250,43.0,"Queens, NY",Individual,2015.0
+ACCT100251,56.0,"Pittsburgh, PA 15274",Individual,2022.0
+ACCT100252,79.0,"Newark, NJ",Individual,2013.0
+ACCT100253,46.0,"Brooklyn, NY",Individual,2015.0
+ACCT100254,63.0,11502,Individual,2020.0
+ACCT100255,43.0,"Montclair, NJ",Corporate,2020.0
+ACCT100256,31.0,"Queens, NY",Individual,2024.0
+ACCT100257,,bronx ny,Individual,2021.0
+ACCT100258,44.0,"New Rochelle, NY",Individual,2016.0
+ACCT100259,34.0,"PHILADELPHIA, PA",Individual,2016.0
+ACCT100260,21.0,"Massapequa, NY 11710",Individual,2019.0
+ACCT100261,51.0,"Staten Island, NY",Individual,2014.0
+ACCT100262,56.0,"New York, NY",Individual,2021.0
+ACCT100263,50.0,"Hackensack, NJ",Individual,2024.0
+ACCT100264,55.0,,Individual,2019.0
+ACCT100265,62.0,,Individual,2022.0
+ACCT100266,44.0,"Staten Island, NY 10359",Individual,2004.0
+ACCT100267,33.0,"Queens, NY",Individual,2023.0
+ACCT100268,74.0,newark nj,Individual,2024.0
+ACCT100269,49.0,"Brooklyn, NY",Individual,2024.0
+ACCT100270,52.0,"New York, NY",Individual,2013.0
+ACCT100271,,"BRONX, NY",Individual,2010.0
+ACCT100272,25.0,"Hempstead, NY",Individual,2022.0
+ACCT100273,61.0,"BROOKLYN, NY",Individual,2021.0
+ACCT100274,41.0,"Albany, NY",Individual,2023.0
+ACCT100275,45.0,"Fort Lee, New Jersey",Individual,2010.0
+ACCT100276,53.0,"Staten Island, New York",Individual,2023.0
+ACCT100277,42.0,"Allentown, PA",Individual,2024.0
+ACCT100278,21.0,10415,Individual,2022.0
+ACCT100279,24.0,"Staten Island, NY",Individual,2023.0
+ACCT100280,56.0,"Queens, NY",Individual,2019.0
+ACCT100281,57.0,,Individual,2024.0
+ACCT100282,45.0,"Brooklyn, NY",Individual,2021.0
+ACCT100283,37.0,"New York, NY",Individual,2019.0
+ACCT100284,34.0,,Individual,2015.0
+ACCT100285,21.0,"Hackensack, NJ",Individual,2017.0
+ACCT100286,,07344,Individual,2019.0
+ACCT100287,41.0,"Paramus, New Jersey",Individual,2020.0
+ACCT100288,51.0,,Individual,2024.0
+ACCT100289,35.0,"Queens, NY",Individual,2021.0
+ACCT100290,52.0,"Brooklyn, NY",Individual,2018.0
+ACCT100291,46.0,"Brooklyn, NY",Individual,2016.0
+ACCT100292,71.0,"Scarsdale, NY",Individual,2019.0
+ACCT100293,57.0,"Staten Island, NY",Corporate,2004.0
+ACCT100294,48.0,"White Plains, NY",Individual,2007.0
+ACCT100295,56.0,brooklyn ny,Individual,2024.0
+ACCT100296,,"Queens, New York",Individual,2024.0
+ACCT100297,46.0,"New York, NY",Individual,2024.0
+ACCT100298,62.0,"Queens, NY 11347",Corporate,2024.0
+ACCT100299,,"Pittsburgh, PA",Individual,2024.0
+ACCT100300,37.0,"Hoboken, NJ",Individual,2020.0
+ACCT100301,42.0,11346,Individual,2020.0
+ACCT100302,57.0,"STATEN ISLAND, NY",Individual,2017.0
+ACCT100303,50.0,"New Rochelle, New York",Individual,2004.0
+ACCT100304,31.0,"Queens, New York",Individual,2023.0
+ACCT100305,,"Bronx, NY",Individual,2024.0
+ACCT100306,46.0,"New York, NY",Individual,2020.0
+ACCT100307,52.0,"Jersey City, NJ",Individual,2020.0
+ACCT100308,53.0,"Staten Island, NY",Individual,2018.0
+ACCT100309,73.0,"Princeton, NJ",Individual,2013.0
+ACCT100310,28.0,"White Plains, NY 10670",Individual,2019.0
+ACCT100311,47.0,"Brooklyn, NY 11282",Individual,2024.0
+ACCT100312,49.0,"Queens, NY",Individual,2022.0
+ACCT100313,35.0,"Staten Island, NY",Individual,2023.0
+ACCT100314,54.0,"Pittsburgh, PA",Individual,2023.0
+ACCT100315,57.0,"Jersey City, NJ",Individual,2020.0
+ACCT100316,45.0,"Fort Lee, NJ",Individual,2022.0
+ACCT100317,34.0,"New York, NY",Individual,2020.0
+ACCT100318,45.0,"New York, New York",Individual,2021.0
+ACCT100319,71.0,"Queens, NY",Individual,2023.0
+ACCT100320,49.0,"HACKENSACK, NJ",Individual,2023.0
+ACCT100321,41.0,"New York, New York",Individual,2020.0
+ACCT100322,75.0,New York City,Individual,2023.0
+ACCT100323,32.0,"Poughkeepsie, NY",Individual,2017.0
+ACCT100324,36.0,"Montclair, NJ 07017",Individual,2019.0
+ACCT100325,40.0,,Individual,2024.0
+ACCT100326,40.0,"New York, NY",Individual,2017.0
+ACCT100327,50.0,"Huntington, New York",Corporate,2024.0
+ACCT100328,52.0,"Edison, NJ",Individual,2020.0
+ACCT100329,61.0,"Bronx, NY",Corporate,2017.0
+ACCT100330,49.0,princeton nj,Individual,2019.0
+ACCT100331,65.0,,Individual,2009.0
+ACCT100332,21.0,staten island ny,Individual,2024.0
+ACCT100333,47.0,"Staten Island, NY",Individual,2010.0
+ACCT100334,61.0,"New Rochelle, New York",Individual,2023.0
+ACCT100335,43.0,"Newark, NJ",Individual,2021.0
+ACCT100336,52.0,"Brooklyn, NY",Individual,2007.0
+ACCT100337,40.0,"Staten Island, New York",Corporate,2024.0
+ACCT100338,55.0,,Individual,2011.0
+ACCT100339,40.0,"Fort Lee, NJ",Corporate,2022.0
+ACCT100340,47.0,"White Plains, New York",Individual,2023.0
+ACCT100341,28.0,"Montclair, NJ",Corporate,2017.0
+ACCT100342,49.0,11713,Corporate,2023.0
+ACCT100343,46.0,,Corporate,2022.0
+ACCT100344,59.0,"New York, New York",Individual,2019.0
+ACCT100345,40.0,massapequa ny,Individual,2023.0
+ACCT100346,59.0,"Princeton, NJ",Individual,2019.0
+ACCT100347,41.0,"New York, NY",Individual,2013.0
+ACCT100348,35.0,brooklyn ny,Individual,2021.0
+ACCT100349,56.0,staten island ny,Individual,2024.0
+ACCT100350,60.0,queens ny,Individual,2021.0
+ACCT100351,45.0,"Princeton, New Jersey",Individual,2020.0
+ACCT100352,39.0,"Princeton, NJ",Corporate,2024.0
+ACCT100353,56.0,"Burlington, VT",Individual,2019.0
+ACCT100354,50.0,"Scarsdale, NY",Corporate,2020.0
+ACCT100355,28.0,"Syracuse, NY",Individual,2017.0
+ACCT100356,48.0,"New York, NY 10015",Individual,2019.0
+ACCT100357,71.0,"Queens, NY",Individual,2024.0
+ACCT100358,45.0,"White Plains, NY",Individual,2022.0
+ACCT100359,55.0,"STATEN ISLAND, NY",Individual,2024.0
+ACCT100360,40.0,"Fort Lee, NJ",Individual,2021.0
+ACCT100361,57.0,"White Plains, NY 10683",Individual,2024.0
+ACCT100362,62.0,queens ny,Individual,2022.0
+ACCT100363,67.0,"Staten Island, NY",Individual,2023.0
+ACCT100364,48.0,"Montclair, NJ",Individual,2024.0
+ACCT100365,,Manhattan,Individual,2023.0
+ACCT100366,67.0,"Brooklyn, NY",Individual,2017.0
+ACCT100367,21.0,"Brooklyn, NY",Individual,2021.0
+ACCT100368,57.0,new york ny,Individual,2019.0
+ACCT100369,27.0,brooklyn ny,Individual,2021.0
+ACCT100370,22.0,11342,Individual,2023.0
+ACCT100371,,bronx ny,Individual,2013.0
+ACCT100372,,"New York, NY",Individual,2018.0
+ACCT100373,63.0,"Bronx, New York",Individual,2013.0
+ACCT100374,50.0,newark nj,Individual,2016.0
+ACCT100375,46.0,"Queens, NY",Corporate,2014.0
+ACCT100376,30.0,11351,Individual,2023.0
+ACCT100377,51.0,"New York, NY",Individual,2023.0
+ACCT100378,43.0,"White Plains, NY",Individual,2023.0
+ACCT100379,61.0,"Hackensack, NJ",Individual,2024.0
+ACCT100380,31.0,"Rochester, NY",Corporate,2022.0
+ACCT100381,32.0,"Bronx, NY",Individual,2021.0
+ACCT100382,42.0,"Newark, NJ",Individual,2016.0
+ACCT100383,,"Bronx, NY",Individual,2019.0
+ACCT100384,48.0,"Newark, NJ",Individual,2019.0
+ACCT100385,35.0,"White Plains, NY",Individual,2004.0
+ACCT100386,42.0,"Bronx, NY",Corporate,2019.0
+ACCT100387,62.0,,Individual,2019.0
+ACCT100388,49.0,"Albany, NY",Individual,2020.0
+ACCT100389,48.0,paramus nj,Individual,2011.0
+ACCT100390,47.0,"Paramus, NJ",Individual,2011.0
+ACCT100391,46.0,"Bronx, NY",Individual,2024.0
+ACCT100392,67.0,10413,Individual,2023.0
+ACCT100393,46.0,"Bronx, NY",Individual,2016.0
+ACCT100394,55.0,"Newark, NJ",Corporate,2020.0
+ACCT100395,58.0,"Syracuse, NY",Individual,2016.0
+ACCT100396,49.0,"Hempstead, NY",Individual,2018.0
+ACCT100397,43.0,,Individual,2019.0
+ACCT100398,51.0,new rochelle ny,Individual,2020.0
+ACCT100399,,"Jersey City, NJ",Individual,2023.0
+ACCT100400,33.0,"Bronx, NY 10489",Corporate,2021.0
+ACCT100401,,"Staten Island, NY",Individual,2019.0
+ACCT100402,42.0,"BROOKLYN, NY",Corporate,2018.0
+ACCT100403,21.0,"Poughkeepsie, NY",Individual,2024.0
+ACCT100404,58.0,"SCARSDALE, NY",Individual,2024.0
+ACCT100405,41.0,"Garden City, NY 11501",Individual,2013.0
+ACCT100406,,hackensack nj,Individual,2011.0
+ACCT100407,33.0,queens ny,Individual,2020.0
+ACCT100408,66.0,"Queens, NY",Individual,2024.0
+ACCT100409,43.0,"Bronx, New York",Individual,2023.0
+ACCT100410,49.0,brattleboro vt,Corporate,2015.0
+ACCT100411,32.0,"Bronx, NY",Corporate,2012.0
+ACCT100412,61.0,"Jersey City, New Jersey",Individual,2021.0
+ACCT100413,27.0,hempstead ny,Individual,2019.0
+ACCT100414,51.0,"Staten Island, NY",Individual,2023.0
+ACCT100415,21.0,11250,Individual,2017.0
+ACCT100416,33.0,"Brooklyn, NY",Individual,2023.0
+ACCT100417,57.0,syracuse ny,Individual,2022.0
+ACCT100418,47.0,"Rochester, NY 14625",Individual,2022.0
+ACCT100419,45.0,"Bronx, NY",Individual,2021.0
+ACCT100420,43.0,10365,Individual,2018.0
+ACCT100421,,"Queens, NY",Individual,2023.0
+ACCT100422,32.0,,Individual,2022.0
+ACCT100423,54.0,,Individual,2020.0
+ACCT100424,49.0,"PITTSBURGH, PA",Corporate,2022.0
+ACCT100425,54.0,"EDISON, NJ",Individual,2021.0
+ACCT100426,46.0,"Fort Lee, New Jersey",Individual,2020.0
+ACCT100427,32.0,"Hempstead, NY",Individual,2022.0
+ACCT100428,,"Jersey City, NJ",Individual,2022.0
+ACCT100429,,"Queens, NY",Individual,2023.0
+ACCT100430,64.0,"NEW YORK, NY",Individual,2015.0
+ACCT100431,27.0,"Staten Island, New York",Individual,2023.0
+ACCT100432,60.0,"Brooklyn, NY",Individual,2024.0
+ACCT100433,51.0,,Individual,2022.0
+ACCT100434,39.0,queens ny,Individual,2024.0
+ACCT100435,21.0,,Individual,2020.0
+ACCT100436,46.0,Manhattan,Individual,2022.0
+ACCT100437,42.0,"BROOKLYN, NY",Corporate,2024.0
+ACCT100438,53.0,"QUEENS, NY",Individual,2019.0
+ACCT100439,57.0,"Queens, NY",Individual,2024.0
+ACCT100440,38.0,"Brattleboro, VT",Individual,2023.0
+ACCT100441,,bronx ny,Individual,2019.0
+ACCT100442,38.0,fort lee nj,Individual,2017.0
+ACCT100443,35.0,"BROOKLYN, NY",Individual,2015.0
+ACCT100444,58.0,bronx ny,Individual,2023.0
+ACCT100445,63.0,brooklyn ny,Individual,2023.0
+ACCT100446,56.0,"Paramus, NJ",Individual,2018.0
+ACCT100447,58.0,"Newark, NJ",Individual,2024.0
+ACCT100448,,"Staten Island, NY",Individual,2021.0
+ACCT100449,,"Bronx, NY",Individual,2020.0
+ACCT100450,54.0,11289,Individual,2021.0
+ACCT100451,25.0,"Queens, New York",Individual,2024.0
+ACCT100452,38.0,18585,Individual,2014.0
+ACCT100453,51.0,"Pittsburgh, PA",Individual,2015.0
+ACCT100454,41.0,"Hackensack, NJ",Individual,2009.0
+ACCT100455,44.0,brooklyn ny,Individual,2023.0
+ACCT100456,59.0,"Newark, NJ",Individual,2024.0
+ACCT100457,35.0,"Syracuse, NY",Individual,2024.0
+ACCT100458,47.0,"New York, NY 10010",Individual,2017.0
+ACCT100459,40.0,"Bronx, NY",Corporate,2016.0
+ACCT100460,26.0,"Hoboken, NJ",Individual,2018.0
+ACCT100461,21.0,"Staten Island, NY",Individual,2023.0
+ACCT100462,,"Poughkeepsie, NY",Individual,2018.0
+ACCT100463,48.0,"Brooklyn, New York",Individual,2022.0
+ACCT100464,59.0,"Bronx, New York",Individual,2023.0
+ACCT100465,55.0,"Massapequa, NY",Individual,2016.0
+ACCT100466,58.0,"Staten Island, NY",Corporate,2010.0
+ACCT100467,63.0,"Bronx, NY",Individual,2021.0
+ACCT100468,44.0,"Hempstead, NY",Individual,2024.0
+ACCT100469,49.0,"Brooklyn, NY",Individual,2022.0
+ACCT100470,42.0,"Scarsdale, NY",Individual,2022.0
+ACCT100471,36.0,,Individual,2019.0
+ACCT100472,27.0,"Queens, New York",Individual,2020.0
+ACCT100473,50.0,,Individual,2017.0
+ACCT100474,45.0,"Staten Island, NY",Individual,2012.0
+ACCT100475,81.0,"Staten Island, New York",Individual,2022.0
+ACCT100476,44.0,"NEW YORK, NY",Individual,2014.0
+ACCT100477,27.0,"Brooklyn, NY",Individual,2019.0
+ACCT100478,45.0,"Albany, NY",Individual,2022.0
+ACCT100479,21.0,,Corporate,2020.0
+ACCT100480,53.0,"Yonkers, NY",Individual,2022.0
+ACCT100481,60.0,11368,Individual,2024.0
+ACCT100482,50.0,07072,Individual,2021.0
+ACCT100483,55.0,,Individual,2023.0
+ACCT100484,46.0,"Queens, NY",Individual,2010.0
+ACCT100485,21.0,"White Plains, NY",Individual,2017.0
+ACCT100486,37.0,brooklyn ny,Corporate,2022.0
+ACCT100487,41.0,"Bronx, NY",Individual,2023.0
+ACCT100488,,,Individual,2018.0
+ACCT100489,56.0,brooklyn ny,Individual,2020.0
+ACCT100490,49.0,new york ny,Individual,2023.0
+ACCT100491,52.0,queens ny,Corporate,2024.0
+ACCT100492,36.0,"Huntington, NY",Corporate,2018.0
+ACCT100493,63.0,"New York, NY",Individual,2021.0
+ACCT100494,44.0,"Scranton, PA",Individual,2021.0
+ACCT100495,36.0,,Individual,2010.0
+ACCT100496,51.0,"Yonkers, New York",Individual,2018.0
+ACCT100497,31.0,"Staten Island, NY 10313",Individual,2017.0
+ACCT100498,34.0,"Garden City, NY",Individual,2022.0
+ACCT100499,42.0,"New York, NY",Individual,2024.0
+ACCT100500,26.0,"New York, NY",Individual,2023.0
+ACCT100501,51.0,"Staten Island, NY",Individual,2020.0
+ACCT100502,48.0,"Montclair, NJ 07079",Individual,2023.0
+ACCT100503,57.0,"New Rochelle, NY",Corporate,2022.0
+ACCT100504,62.0,queens ny,Individual,2010.0
+ACCT100505,37.0,bronx ny,Corporate,2015.0
+ACCT100506,49.0,"Hoboken, NJ 07003",Individual,2021.0
+ACCT100507,21.0,"Jersey City, NJ",Individual,2019.0
+ACCT100508,38.0,,Individual,2022.0
+ACCT100509,67.0,"Huntington, NY",Individual,2013.0
+ACCT100510,42.0,10383,Individual,2022.0
+ACCT100511,29.0,"Montclair, NJ",Individual,2014.0
+ACCT100512,44.0,"Scranton, PA",Individual,2017.0
+ACCT100513,35.0,"Bronx, NY",Individual,2018.0
+ACCT100514,60.0,"New York, NY",Individual,2022.0
+ACCT100515,34.0,"Staten Island, NY",Individual,2013.0
+ACCT100516,44.0,"Brooklyn, NY 11209",Individual,2017.0
+ACCT100517,39.0,scranton pa,Individual,2023.0
+ACCT100518,39.0,huntington ny,Individual,2023.0
+ACCT100519,59.0,"STATEN ISLAND, NY",Individual,2024.0
+ACCT100520,35.0,"Montclair, NJ",Individual,2019.0
+ACCT100521,25.0,,Individual,2022.0
+ACCT100522,49.0,poughkeepsie ny,Individual,2023.0
+ACCT100523,46.0,"Fort Lee, NJ",Corporate,2021.0
+ACCT100524,62.0,"Bronx, New York",Individual,2022.0
+ACCT100525,48.0,"Queens, NY",Corporate,2023.0
+ACCT100526,,"Staten Island, NY",Individual,2022.0
+ACCT100527,56.0,,Individual,2024.0
+ACCT100528,37.0,"New York, NY 10019",Individual,2018.0
+ACCT100529,76.0,"Manhattan, NY",Individual,2021.0
+ACCT100530,31.0,"Hempstead, NY 11516",Individual,2023.0
+ACCT100531,49.0,,Individual,2020.0
+ACCT100532,37.0,staten island ny,Corporate,2018.0
+ACCT100533,49.0,,Individual,2023.0
+ACCT100534,,"BROOKLYN, NY",Individual,2017.0
+ACCT100535,44.0,,Individual,2014.0
+ACCT100536,36.0,"Bronx, NY",Corporate,2013.0
+ACCT100537,25.0,pittsburgh pa,Individual,2020.0
+ACCT100538,45.0,"Brooklyn, NY",Individual,2024.0
+ACCT100539,58.0,"Morristown, NJ",Corporate,2017.0
+ACCT100540,40.0,"New Rochelle, NY 10856",Corporate,2020.0
+ACCT100541,53.0,"Bronx, New York",Corporate,2014.0
+ACCT100542,,"Philadelphia, PA",Individual,2023.0
+ACCT100543,61.0,"Bronx, NY",Individual,2019.0
+ACCT100544,32.0,queens ny,Corporate,2024.0
+ACCT100545,47.0,"Rochester, NY",Corporate,2022.0
+ACCT100546,52.0,10012,Individual,2023.0
+ACCT100547,57.0,garden city ny,Corporate,2022.0
+ACCT100548,,"Fort Lee, New Jersey",Individual,2022.0
+ACCT100549,63.0,"ALBANY, NY",Individual,2021.0
+ACCT100550,56.0,newark nj,Individual,2022.0
+ACCT100551,62.0,"Brooklyn, NY",Individual,2014.0
+ACCT100552,47.0,"Queens, New York",Individual,2024.0
+ACCT100553,22.0,"New York, NY",Individual,2023.0
+ACCT100554,44.0,new york ny,Individual,2017.0
+ACCT100555,69.0,"Scranton, PA",Individual,2020.0
+ACCT100556,39.0,"Huntington, New York",Corporate,2023.0
+ACCT100557,29.0,"Brooklyn, NY",Corporate,2020.0
+ACCT100558,40.0,"Bronx, NY",Individual,2014.0
+ACCT100559,47.0,10440,Corporate,2006.0
+ACCT100560,39.0,"Huntington, NY",Individual,2017.0
+ACCT100561,21.0,burlington vt,Individual,2021.0
+ACCT100562,55.0,"Staten Island, New York",Individual,2020.0
+ACCT100563,47.0,,Individual,2021.0
+ACCT100564,41.0,"Hoboken, NJ 07077",Individual,2018.0
+ACCT100565,37.0,"Staten Island, NY",Individual,2020.0
+ACCT100566,74.0,"Brooklyn, NY",Individual,2019.0
+ACCT100567,49.0,"Bronx, NY",Individual,2014.0
+ACCT100568,21.0,10637,Individual,2018.0
+ACCT100569,32.0,"Bronx, NY",Individual,2013.0
+ACCT100570,45.0,"Staten Island, NY",Individual,2012.0
+ACCT100571,31.0,"Queens, NY",Individual,2024.0
+ACCT100572,61.0,"Staten Island, NY",Individual,2022.0
+ACCT100573,58.0,edison nj,Individual,2017.0
+ACCT100574,50.0,"Morristown, NJ",Individual,2023.0
+ACCT100575,45.0,"New York, NY",Corporate,2022.0
+ACCT100576,,"White Plains, NY",Individual,2024.0
+ACCT100577,44.0,scarsdale ny,Individual,2007.0
+ACCT100578,45.0,"Brooklyn, NY",Individual,2017.0
+ACCT100579,40.0,"New York, NY",Individual,2019.0
+ACCT100580,31.0,"New York, New York",Individual,2018.0
+ACCT100581,37.0,"Fort Lee, NJ 07097",Individual,2004.0
+ACCT100582,56.0,"Bronx, NY",Corporate,2014.0
+ACCT100583,45.0,"Garden City, NY",Individual,2023.0
+ACCT100584,27.0,"MASSAPEQUA, NY",Individual,2015.0
+ACCT100585,51.0,"Staten Island, NY",Corporate,2021.0
+ACCT100586,21.0,"Staten Island, NY 10340",Individual,2019.0
+ACCT100587,40.0,"Staten Island, NY",Individual,2020.0
+ACCT100588,25.0,"New York, NY",Individual,2019.0
+ACCT100589,40.0,"Montclair, NJ",Individual,2018.0
+ACCT100590,47.0,"Bronx, NY",Individual,2024.0
+ACCT100591,21.0,"Brooklyn, NY",Individual,2022.0
+ACCT100592,35.0,"Brooklyn, NY",Individual,2019.0
+ACCT100593,49.0,,Individual,2022.0
+ACCT100594,68.0,"Princeton, New Jersey",Individual,2016.0
+ACCT100595,27.0,"New York, NY",Individual,2023.0
+ACCT100596,56.0,"Allentown, PA",Individual,2022.0
+ACCT100597,35.0,"Philadelphia, PA",Corporate,2021.0
+ACCT100598,39.0,queens ny,Individual,2023.0
+ACCT100599,43.0,,Individual,2021.0
+ACCT100600,42.0,"Bronx, NY",Corporate,2017.0
+ACCT100601,49.0,"Queens, NY 11394",Individual,2024.0
+ACCT100602,39.0,11322,Individual,2023.0
+ACCT100603,34.0,"Bronx, New York",Individual,2023.0
+ACCT100604,64.0,"Queens, NY",Individual,2020.0
+ACCT100605,65.0,new york ny,Individual,2015.0
+ACCT100606,25.0,"Brooklyn, NY",Individual,2022.0
+ACCT100607,42.0,"Queens, NY",Individual,2024.0
+ACCT100608,46.0,"Bronx, NY",Individual,2017.0
+ACCT100609,50.0,"Brooklyn, NY",Individual,2023.0
+ACCT100610,27.0,"New York, NY",Individual,2023.0
+ACCT100611,45.0,"Hackensack, NJ",Individual,2022.0
+ACCT100612,55.0,"Bronx, NY",Individual,2017.0
+ACCT100613,,,Individual,2004.0
+ACCT100614,31.0,"Hoboken, NJ",Individual,2023.0
+ACCT100615,45.0,"Scranton, PA",Individual,2020.0
+ACCT100616,42.0,"Newark, NJ",Individual,2022.0
+ACCT100617,,"Bronx, NY",Individual,2022.0
+ACCT100618,57.0,,Individual,2010.0
+ACCT100619,49.0,"Bronx, NY",Individual,2018.0
+ACCT100620,44.0,"New York, NY",Individual,2023.0
+ACCT100621,50.0,"Brattleboro, VT 05362",Individual,2019.0
+ACCT100622,57.0,"Manhattan, NY",Individual,2024.0
+ACCT100623,35.0,"Newark, NJ",Individual,2024.0
+ACCT100624,57.0,"BROOKLYN, NY",Individual,2024.0
+ACCT100625,32.0,"Hackensack, NJ",Individual,2014.0
+ACCT100626,43.0,,Corporate,2007.0
+ACCT100627,22.0,,Individual,2021.0
+ACCT100628,25.0,bronx ny,Individual,2022.0
+ACCT100629,47.0,"Queens, NY",Individual,2012.0
+ACCT100630,31.0,"Edison, NJ",Individual,2023.0
+ACCT100631,35.0,"Garden City, NY 11526",Individual,2021.0
+ACCT100632,41.0,bronx ny,Individual,2023.0
+ACCT100633,42.0,"HEMPSTEAD, NY",Individual,2023.0
+ACCT100634,33.0,"New York, NY",Corporate,2022.0
+ACCT100635,53.0,"Brooklyn, NY",Individual,2024.0
+ACCT100636,45.0,"Edison, NJ",Individual,2019.0
+ACCT100637,48.0,hackensack nj,Individual,2022.0
+ACCT100638,60.0,"Brooklyn, NY",Corporate,2020.0
+ACCT100639,38.0,18595,Individual,2015.0
+ACCT100640,47.0,"Staten Island, NY",Individual,2015.0
+ACCT100641,66.0,11286,Individual,2024.0
+ACCT100642,59.0,"GARDEN CITY, NY",Individual,2006.0
+ACCT100643,26.0,"Fort Lee, NJ",Individual,2023.0
+ACCT100644,,"Brooklyn, NY 11254",Individual,2021.0
+ACCT100645,43.0,"Staten Island, NY",Individual,2015.0
+ACCT100646,54.0,"Bronx, NY 10445",Corporate,2015.0
+ACCT100647,44.0,"New Rochelle, NY",Individual,2021.0
+ACCT100648,,"Rochester, NY",Individual,2021.0
+ACCT100649,62.0,"BROOKLYN, NY",Individual,2021.0
+ACCT100650,25.0,"Queens, NY",Individual,2022.0
+ACCT100651,62.0,"Brooklyn, NY",Individual,2023.0
+ACCT100652,47.0,"Bronx, NY",Individual,2019.0
+ACCT100653,51.0,"Fort Lee, NJ",Individual,2012.0
+ACCT100654,39.0,11332,Individual,2014.0
+ACCT100655,65.0,"Staten Island, NY",Individual,2024.0
+ACCT100656,44.0,"Queens, NY",Individual,2017.0
+ACCT100657,21.0,"Garden City, NY",Individual,2015.0
+ACCT100658,,07927,Individual,2012.0
+ACCT100659,45.0,morristown nj,Individual,2023.0
+ACCT100660,57.0,"Huntington, NY",Individual,2019.0
+ACCT100661,61.0,08597,Corporate,2020.0
+ACCT100662,42.0,new york ny,Corporate,2018.0
+ACCT100663,44.0,,Corporate,2024.0
+ACCT100664,35.0,"Staten Island, NY",Corporate,2023.0
+ACCT100665,,,Individual,2023.0
+ACCT100666,35.0,"Bronx, NY",Individual,2018.0
+ACCT100667,22.0,"Staten Island, NY",Individual,2020.0
+ACCT100668,49.0,"Huntington, NY",Individual,2023.0
+ACCT100669,44.0,"Syracuse, New York",Corporate,2016.0
+ACCT100670,21.0,bronx ny,Corporate,2022.0
+ACCT100671,62.0,"Brooklyn, New York",Individual,2021.0
+ACCT100672,38.0,"Staten Island, NY",Individual,2019.0
+ACCT100673,21.0,"Edison, NJ",Individual,2024.0
+ACCT100674,40.0,"Garden City, New York",Individual,2022.0
+ACCT100675,41.0,"Queens, NY",Corporate,2021.0
+ACCT100676,53.0,08886,Individual,2024.0
+ACCT100677,51.0,"Rochester, NY",Individual,2023.0
+ACCT100678,,"Hackensack, NJ",Individual,2020.0
+ACCT100679,40.0,"Fort Lee, NJ",Individual,2024.0
+ACCT100680,,"Staten Island, NY",Individual,2019.0
+ACCT100681,49.0,"Staten Island, NY",Individual,2020.0
+ACCT100682,36.0,"Hackensack, NJ 07604",Individual,2020.0
+ACCT100683,73.0,"New York, NY",Individual,2020.0
+ACCT100684,34.0,"Staten Island, NY",Individual,2016.0
+ACCT100685,25.0,"Jersey City, NJ 07301",Individual,2023.0
+ACCT100686,40.0,,Individual,2021.0
+ACCT100687,43.0,"Poughkeepsie, NY",Individual,2022.0
+ACCT100688,46.0,"Hempstead, NY",Individual,2017.0
+ACCT100689,53.0,"Staten Island, NY",Corporate,2012.0
+ACCT100690,40.0,"New Rochelle, NY",Individual,2019.0
+ACCT100691,33.0,,Corporate,2011.0
+ACCT100692,,"Allentown, PA",Individual,2018.0
+ACCT100693,42.0,"Queens, NY 11302",Corporate,2017.0
+ACCT100694,24.0,,Individual,2021.0
+ACCT100695,74.0,11330,Individual,2023.0
+ACCT100696,48.0,scranton pa,Individual,2020.0
+ACCT100697,,"Staten Island, NY",Individual,2024.0
+ACCT100698,31.0,"New York, New York",Individual,2014.0
+ACCT100699,53.0,07652,Corporate,2022.0
+ACCT100700,,staten island ny,Individual,2024.0
+ACCT100701,,"White Plains, NY 10655",Individual,2022.0
+ACCT100702,45.0,"HOBOKEN, NJ",Individual,2024.0
+ACCT100703,,"Bronx, NY",Individual,2019.0
+ACCT100704,44.0,"Jersey City, NJ",Individual,2024.0
+ACCT100705,39.0,"Albany, NY",Individual,2013.0
+ACCT100706,75.0,"Staten Island, New York",Individual,2023.0
+ACCT100707,,"Bronx, New York",Individual,2017.0
+ACCT100708,35.0,"Staten Island, NY",Individual,2024.0
+ACCT100709,43.0,"Queens, NY",Corporate,2021.0
+ACCT100710,48.0,"Huntington, New York",Individual,2020.0
+ACCT100711,28.0,"Staten Island, New York",Individual,2023.0
+ACCT100712,37.0,brooklyn ny,Individual,2024.0
+ACCT100713,54.0,"Queens, NY",Individual,2023.0
+ACCT100714,44.0,Manhattan,Individual,2022.0
+ACCT100715,39.0,"Brooklyn, NY",Individual,2019.0
+ACCT100716,55.0,"New York, NY",Individual,2023.0
+ACCT100717,40.0,"Queens, New York",Individual,2019.0
+ACCT100718,28.0,montclair nj,Individual,2009.0
+ACCT100719,68.0,"Queens, NY",Individual,2017.0
+ACCT100720,24.0,,Individual,2023.0
+ACCT100721,,"Fort Lee, NJ",Individual,2024.0
+ACCT100722,24.0,10077,Individual,2017.0
+ACCT100723,36.0,"New York, New York",Individual,2024.0
+ACCT100724,65.0,10092,Individual,2007.0
+ACCT100725,36.0,"Queens, NY",Individual,2023.0
+ACCT100726,63.0,12698,Individual,2019.0
+ACCT100727,56.0,"Yonkers, New York",Individual,2022.0
+ACCT100728,22.0,"Montclair, NJ",Individual,2023.0
+ACCT100729,33.0,"Bronx, NY",Individual,2022.0
+ACCT100730,56.0,"Huntington, NY",Corporate,2017.0
+ACCT100731,61.0,"Garden City, NY",Individual,2020.0
+ACCT100732,65.0,"Poughkeepsie, NY",Individual,2022.0
+ACCT100733,28.0,"Huntington, NY",Individual,2023.0
+ACCT100734,58.0,"Philadelphia, PA",Individual,2018.0
+ACCT100735,46.0,"Newark, NJ",Individual,2017.0
+ACCT100736,25.0,,Individual,2024.0
+ACCT100737,50.0,jersey city nj,Individual,2022.0
+ACCT100738,67.0,"Philadelphia, PA",Individual,2017.0
+ACCT100739,39.0,"New York, NY",Individual,2023.0
+ACCT100740,21.0,staten island ny,Individual,2020.0
+ACCT100741,41.0,morristown nj,Corporate,2021.0
+ACCT100742,22.0,"Huntington, New York",Individual,2004.0
+ACCT100743,40.0,"Scranton, PA",Individual,2024.0
+ACCT100744,21.0,"Burlington, VT",Individual,2021.0
+ACCT100745,45.0,"Brooklyn, NY",Individual,2017.0
+ACCT100746,45.0,,Individual,2021.0
+ACCT100747,31.0,allentown pa,Individual,2020.0
+ACCT100748,55.0,"Scranton, PA",Individual,2016.0
+ACCT100749,52.0,"Bronx, NY 10455",Individual,2019.0
+ACCT100750,25.0,"MASSAPEQUA, NY",Individual,2006.0
+ACCT100751,59.0,"Staten Island, New York",Individual,2019.0
+ACCT100752,,new york ny,Individual,2022.0
+ACCT100753,66.0,"Scarsdale, NY",Individual,2020.0
+ACCT100754,47.0,"Hempstead, NY",Corporate,2024.0
+ACCT100755,55.0,"MASSAPEQUA, NY",Individual,2024.0
+ACCT100756,58.0,"Montclair, NJ",Individual,2022.0
+ACCT100757,56.0,"Brooklyn, New York",Individual,2020.0
+ACCT100758,41.0,"Hackensack, NJ",Individual,2004.0
+ACCT100759,43.0,"Paramus, NJ",Individual,2022.0
+ACCT100760,38.0,,Corporate,2012.0
+ACCT100761,49.0,"Scarsdale, NY",Individual,2019.0
+ACCT100762,31.0,"EDISON, NJ",Individual,2004.0
+ACCT100763,29.0,"Princeton, New Jersey",Individual,2021.0
+ACCT100764,,"Brattleboro, VT",Individual,2021.0
+ACCT100765,23.0,"Jersey City, NJ",Individual,2019.0
+ACCT100766,48.0,"Paramus, NJ",Individual,2018.0
+ACCT100767,56.0,"Hackensack, New Jersey",Individual,2017.0
+ACCT100768,68.0,"Bronx, NY",Individual,2020.0
+ACCT100769,72.0,10586,Individual,2023.0
+ACCT100770,48.0,"Staten Island, NY",Individual,2004.0
+ACCT100771,44.0,"Montclair, NJ",Individual,2023.0
+ACCT100772,50.0,bronx ny,Individual,2023.0
+ACCT100773,34.0,"Huntington, NY",Individual,2022.0
+ACCT100774,28.0,"Rochester, NY",Individual,2020.0
+ACCT100775,62.0,"Staten Island, New York",Individual,2015.0
+ACCT100776,79.0,11349,Corporate,2020.0
+ACCT100777,34.0,"Brooklyn, NY",Corporate,2024.0
+ACCT100778,42.0,"New York, NY",Individual,2021.0
+ACCT100779,69.0,"Burlington, VT",Individual,2022.0
+ACCT100780,26.0,05478,Individual,2004.0
+ACCT100781,,"Brooklyn, New York",Individual,2024.0
+ACCT100782,35.0,"STATEN ISLAND, NY",Individual,2018.0
+ACCT100783,64.0,"Massapequa, New York",Individual,2021.0
+ACCT100784,41.0,10018,Individual,2021.0
+ACCT100785,55.0,"Queens, NY",Individual,2016.0
+ACCT100786,53.0,NYC,Individual,2023.0
+ACCT100787,67.0,"Brooklyn, NY",Individual,2024.0
+ACCT100788,51.0,"Queens, NY 11370",Corporate,2024.0
+ACCT100789,48.0,,Individual,2020.0
+ACCT100790,38.0,"Queens, NY",Individual,2020.0
+ACCT100791,42.0,"Massapequa, NY",Individual,2024.0
+ACCT100792,51.0,"Huntington, NY",Individual,2024.0
+ACCT100793,36.0,yonkers ny,Individual,2018.0
+ACCT100794,31.0,"Bronx, New York",Individual,2017.0
+ACCT100795,48.0,"Brooklyn, NY 11237",Individual,2024.0
+ACCT100796,33.0,"Paramus, NJ 07603",Individual,2013.0
+ACCT100797,49.0,scranton pa,Individual,2017.0
+ACCT100798,30.0,"Brooklyn, NY",Individual,2023.0
+ACCT100799,61.0,"Queens, NY",Individual,2021.0
+ACCT100800,56.0,"Huntington, NY 11791",Individual,2024.0
+ACCT100801,36.0,"Brooklyn, New York",Individual,2019.0
+ACCT100802,76.0,"Yonkers, NY",Individual,2014.0
+ACCT100803,44.0,"Brattleboro, VT",Individual,2021.0
+ACCT100804,36.0,"Queens, NY",Individual,2024.0
+ACCT100805,47.0,"Paramus, NJ 07686",Individual,2019.0
+ACCT100806,63.0,"Syracuse, NY",Individual,2024.0
+ACCT100807,27.0,"Brooklyn, NY",Corporate,2024.0
+ACCT100808,80.0,"New Rochelle, NY",Individual,2010.0
+ACCT100809,32.0,"Scarsdale, NY",Corporate,2024.0
+ACCT100810,62.0,"Staten Island, NY",Individual,2014.0
+ACCT100811,71.0,08596,Corporate,2017.0
+ACCT100812,51.0,"Bronx, NY",Individual,2019.0
+ACCT100813,36.0,10025,Corporate,2024.0
+ACCT100814,40.0,"Princeton, NJ",Individual,2004.0
+ACCT100815,,"Hoboken, New Jersey",Individual,2021.0
+ACCT100816,32.0,,Individual,2008.0
+ACCT100817,31.0,"New York, New York",Individual,2024.0
+ACCT100818,,"Bronx, NY",Individual,2016.0
+ACCT100819,35.0,"Staten Island, New York",Individual,2019.0
+ACCT100820,50.0,,Individual,2008.0
+ACCT100821,46.0,"Newark, NJ",Individual,2020.0
+ACCT100822,43.0,"Brooklyn, NY",Individual,2004.0
+ACCT100823,62.0,"Staten Island, NY 10383",Individual,2022.0
+ACCT100824,,"Bronx, NY",Corporate,2017.0
+ACCT100825,44.0,"Hempstead, NY",Individual,2020.0
+ACCT100826,47.0,11356,Individual,2024.0
+ACCT100827,46.0,"Brooklyn, NY",Individual,2021.0
+ACCT100828,28.0,edison nj,Individual,2016.0
+ACCT100829,46.0,08804,Corporate,2020.0
+ACCT100830,72.0,staten island ny,Individual,2022.0
+ACCT100831,23.0,hackensack nj,Individual,2023.0
+ACCT100832,,new york ny,Individual,2019.0
+ACCT100833,21.0,"Philadelphia, PA",Individual,2021.0
+ACCT100834,58.0,brooklyn ny,Individual,2023.0
+ACCT100835,49.0,massapequa ny,Individual,2023.0
+ACCT100836,,"New York, NY 10061",Corporate,2022.0
+ACCT100837,31.0,,Individual,2022.0
+ACCT100838,22.0,"Bronx, NY",Individual,2018.0
+ACCT100839,42.0,,Individual,2024.0
+ACCT100840,,"PHILADELPHIA, PA",Individual,2024.0
+ACCT100841,32.0,,Individual,2024.0
+ACCT100842,35.0,"Bronx, NY",Corporate,2023.0
+ACCT100843,50.0,"Yonkers, NY",Individual,2010.0
+ACCT100844,63.0,"New Rochelle, NY",Individual,2019.0
+ACCT100845,46.0,10068,Individual,2019.0
+ACCT100846,55.0,"Bronx, NY",Corporate,2024.0
+ACCT100847,37.0,"Brattleboro, VT",Individual,2021.0
+ACCT100848,55.0,"White Plains, NY",Corporate,2020.0
+ACCT100849,61.0,11779,Individual,2024.0
+ACCT100850,60.0,"BRONX, NY",Individual,2013.0
+ACCT100851,54.0,"Philadelphia, PA",Corporate,2017.0
+ACCT100852,32.0,"Paramus, NJ",Individual,2012.0
+ACCT100853,39.0,"Paramus, NJ",Individual,2024.0
+ACCT100854,46.0,"YONKERS, NY",Individual,2015.0
+ACCT100855,34.0,"Paramus, NJ 07634",Individual,2022.0
+ACCT100856,55.0,,Individual,2024.0
+ACCT100857,51.0,new york ny,Individual,2020.0
+ACCT100858,53.0,07325,Individual,2015.0
+ACCT100859,,"Bronx, NY",Individual,2019.0
+ACCT100860,56.0,"Syracuse, NY",Individual,2020.0
+ACCT100861,45.0,"Bronx, NY",Individual,2024.0
+ACCT100862,45.0,brooklyn ny,Individual,2021.0
+ACCT100863,39.0,"Huntington, NY",Individual,2024.0
+ACCT100864,51.0,"Brooklyn, NY",Individual,2023.0
+ACCT100865,42.0,"Brooklyn, NY",Individual,2004.0
+ACCT100866,41.0,"Bronx, NY",Individual,2004.0
+ACCT100867,40.0,queens ny,Individual,2014.0
+ACCT100868,43.0,"Staten Island, NY 10393",Corporate,2024.0
+ACCT100869,72.0,"Edison, NJ",Corporate,2016.0
+ACCT100870,34.0,"Bronx, New York",Individual,2024.0
+ACCT100871,32.0,07915,Individual,2024.0
+ACCT100872,,10419,Individual,2023.0
+ACCT100873,47.0,,Corporate,2024.0
+ACCT100874,63.0,"Staten Island, NY",Corporate,2023.0
+ACCT100875,46.0,"Queens, NY 11353",Individual,2013.0
+ACCT100876,59.0,"Rochester, New York",Individual,2021.0
+ACCT100877,56.0,"Philadelphia, PA",Individual,2021.0
+ACCT100878,49.0,"Queens, NY",Individual,2021.0
+ACCT100879,30.0,"New York, NY",Individual,2014.0
+ACCT100880,40.0,"Brooklyn, NY",Individual,2022.0
+ACCT100881,56.0,staten island ny,Corporate,2020.0
+ACCT100882,48.0,"Staten Island, NY",Individual,2018.0
+ACCT100883,47.0,queens ny,Individual,2019.0
+ACCT100884,55.0,"Newark, NJ",Individual,2019.0
+ACCT100885,21.0,"Bronx, NY",Individual,2023.0
+ACCT100886,45.0,"STATEN ISLAND, NY",Individual,2021.0
+ACCT100887,56.0,"Queens, NY 11372",Corporate,2022.0
+ACCT100888,58.0,,Individual,2020.0
+ACCT100889,51.0,"Queens, NY",Individual,2021.0
+ACCT100890,73.0,"Philadelphia, PA",Individual,2021.0
+ACCT100891,,"New York, NY",Corporate,2016.0
+ACCT100892,54.0,"Brooklyn, NY 11296",Individual,2021.0
+ACCT100893,55.0,"Huntington, NY",Individual,2021.0
+ACCT100894,35.0,"Montclair, NJ",Individual,2019.0
+ACCT100895,43.0,10011,Individual,2024.0
+ACCT100896,,"Brooklyn, New York",Individual,2012.0
+ACCT100897,50.0,"Queens, NY",Individual,2019.0
+ACCT100898,53.0,10479,Individual,2024.0
+ACCT100899,30.0,"Bronx, NY",Corporate,2023.0
+ACCT100900,46.0,"Brooklyn, NY",Individual,2023.0
+ACCT100901,35.0,"Queens, NY",Individual,2020.0
+ACCT100902,67.0,"Hempstead, NY",Corporate,2024.0
+ACCT100903,46.0,11264,Individual,2019.0
+ACCT100904,45.0,,Individual,2024.0
+ACCT100905,,"Huntington, NY",Corporate,2024.0
+ACCT100906,41.0,"Brooklyn, NY",Individual,2021.0
+ACCT100907,,"BRONX, NY",Individual,2023.0
+ACCT100908,,07676,Individual,2021.0
+ACCT100909,45.0,"Fort Lee, NJ",Individual,2018.0
+ACCT100910,55.0,hoboken nj,Individual,2014.0
+ACCT100911,56.0,jersey city nj,Individual,2017.0
+ACCT100912,51.0,"New York, NY",Individual,2014.0
+ACCT100913,44.0,"Staten Island, NY",Individual,2023.0
+ACCT100914,45.0,"Staten Island, NY",Individual,2024.0
+ACCT100915,59.0,"Rochester, NY",Individual,2017.0
+ACCT100916,47.0,,Individual,2024.0
